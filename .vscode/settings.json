@@ -1,0 +1,8 @@
+{
+    "nuxt.isNuxtApp": false,
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "mysite/resources/lang",
+        "statamic-dev/resources/lang"
+    ]
+}
